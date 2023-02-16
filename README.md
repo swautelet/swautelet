@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Cover](https://github.com/swautelet/swautelet/img/images.jpg)
 
 <a href=#><img src="contributions.svg"></a>
 <!--
