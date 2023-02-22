@@ -45,6 +45,4 @@ jobs:
           git config --global user.email "swautele@student.s19.be"
           git add .
           git commit -m "Updated contribution graph"
-          git remote remove origin
-          git remote add origin https://${{ secrets.GITHUB_TOKEN }}@github.com/swautelet/swautelet
-          git push
+          git push https://swautelet:${{ secrets.GITHUB_TOKEN }}@github.com/swautelet/swautelet
