@@ -1,5 +1,4 @@
 ### Hi there 👋
-<a href=#><img src="dist/github-snake.svg"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/swautelet/swautelet/blob/main/dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/swautelet/swautelet/blob/main/dist/github-snake.svg">
