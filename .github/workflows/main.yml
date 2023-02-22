@@ -1,10 +1,10 @@
 name: Generate Contribution Graph
 
-# on:
-#   schedule:
-#     - cron: '47 12 * * *'
 on:
-  push
+  schedule:
+    - cron: '0 5 * * *'
+# on:
+#   push
 
 jobs:
   generate-graph:
