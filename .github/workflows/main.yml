@@ -45,4 +45,4 @@ jobs:
           git config --global user.email "swautele@student.s19.be"
           git add .
           git commit -m "Updated contribution graph"
-          git push https://swautelet:${{ secrets.ATOKEN }}@github.com/swautelet/swautelet
+          git push https://@github.com/swautelet/swautelet
