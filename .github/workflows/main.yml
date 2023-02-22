@@ -4,7 +4,7 @@ name: Generate Contribution Graph
 #   schedule:
 #     - cron: '47 12 * * *'
 on:
-  push
+  push 
 
 jobs:
   generate-graph:
