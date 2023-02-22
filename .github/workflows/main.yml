@@ -46,5 +46,5 @@ jobs:
           git add .
           git commit -m "Updated contribution graph"
           git remote remove origin
-          git remote add origin https://${{ secrets.atoken }}@github.com/swautelet/swautelet
+          git remote add origin https://${{ secrets.ATOKEN }}@github.com/swautelet/swautelet
           git push
