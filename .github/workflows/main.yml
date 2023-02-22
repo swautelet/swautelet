@@ -45,3 +45,5 @@ jobs:
           git add .
           git commit -m "Updated contribution graph"
           git push
+          ${{ github.repository_owner }}
+          ${{ secrets.atoken }}
