@@ -40,6 +40,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          git config --global --add --bool push.autoSetupRemote true
           git config --global user.name "${{ github.repository_owner }}"
           git config --global user.email "swautele@student.s19.be"
           git add .
