@@ -1,4 +1,5 @@
 ### Hi there 👋
+For now i don't have made a lot of readme for my projects. They're mainly project for my cursus at 19. But feel free to ask me any question you should have on any of my projects if it can help you.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/swautelet/swautelet/blob/main/dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/swautelet/swautelet/blob/main/dist/github-snake.svg">
