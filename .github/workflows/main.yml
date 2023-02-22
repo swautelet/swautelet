@@ -16,7 +16,7 @@ jobs:
         with:
           # GitHub user name to read the contribution graph from
           # Using the GitHub context variable `github.repository_owner` or specified user
-          gh_user: ${{ github.repository_owner }}
+          github_user_name: ${{ github.repository_owner }}
 
           # List of files to generate, one per line
           # Each output can be customized with options as query string
