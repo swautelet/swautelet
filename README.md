@@ -1,8 +1,8 @@
 ### Hi there 👋
 <a href=#><img src="dist/ocean.gif"></a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" <a href=#><img src="dist/github-snake-dark.gif"></a>>
+  <source media="(prefers-color-scheme: light)" <a href=#><img src="dist/github-snake.gif"></a>>
   <img alt="github-snake" src="github-snake.svg">
 </picture>
 <!--
