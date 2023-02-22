@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href=#><img src="contribution.svg"></a>
+<a href=#><img src="dist/github_snake.svg"></a>
 <!--
 **swautelet/swautelet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
