@@ -1,3 +1,6 @@
+on:
+  schedule:
+    - cron: '0 5 * * *'
 uses: Platane/snk/svg-only@v2
 inputs:
     # github user name to read the contribution graph from (**required**)
