@@ -1,7 +1,10 @@
 ### Hi there 👋
 <a href=#><img src="dist/ocean.gif"></a>
-<a href=#><img src="dist/github-snake-dark.svg"></a>
-<a href=#><img src="dist/github-snake.svg"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
 <!--
 **swautelet/swautelet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
