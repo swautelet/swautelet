@@ -2,7 +2,7 @@ name: Generate Contribution Graph
 
 on:
   schedule:
-    - cron: '42 12 * * *'
+    - cron: '47 12 * * *'
 
 jobs:
   generate-graph:
