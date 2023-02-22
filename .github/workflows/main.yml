@@ -1,10 +1,10 @@
 name: Generate Contribution Graph
 
-# on:
-#   schedule:
-#     - cron: '0 5 * * *'
 on:
-  push
+  schedule:
+    - cron: '0 5 * * *'
+# on:
+#   push
 
 jobs:
   generate-graph:
@@ -36,7 +36,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-light
-            dist/ocean.gif?color_snake=bluelight&color_dots=#ffdebf,#ffae42,#fe8302,#ff6e01,#fc5602
+            dist/ocean.gif?color_snake=blue&color_dots=#ffdebf,#ffae42,#fe8302,#ff6e01,#fc5602
 
       - name: Commit and push changes
         run: |
