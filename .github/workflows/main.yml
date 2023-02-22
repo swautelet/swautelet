@@ -35,8 +35,8 @@ jobs:
           #                Exactly 5 colors are expected.
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#46bfdd&color_dots=#ffdebf,#ffae42,#fe8302,#ff6e01,#fc5602
+            dist/github-snake-dark.svg?palette=github-light
+            dist/ocean.gif?color_snake=blue&color_dots=#ffdebf,#ffae42,#fe8302,#ff6e01,#fc5602
 
       - name: Commit and push changes
         run: |
