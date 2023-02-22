@@ -1,10 +1,11 @@
 ### Hi there 👋
 <a href=#><img src="dist/ocean.gif"></a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" <a href=#><img src="dist/github-snake-dark.gif"></a>>
-  <source media="(prefers-color-scheme: light)" <a href=#><img src="dist/github-snake.gif"></a>>
-  <img alt="github-snake" src="github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/swautelet/swautelet/blob/main/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/swautelet/swautelet/blob/main/dist/github-snake.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
 <!--
 **swautelet/swautelet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
