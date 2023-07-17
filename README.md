@@ -3,7 +3,7 @@ I'm slowly adding Readme foor all my previous project. They're mainly project fo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/swautelet/swautelet/blob/main/dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/swautelet/swautelet/blob/main/dist/github-contribution-grid-snake.svg">
-  <img alt="it should be a snake with my contribution." src="https://github.com/swautelet/swautelet/blob/main/dist/github-contribution-grid-snake-dark.svg">
+  <img alt="it should be a snake with my contribution." src="https://github.com/swautelet/swautelet/blob/main/dist/github-contribution-grid-snake.svg">
 </picture>
 
 
